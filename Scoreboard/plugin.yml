@@ -1,0 +1,11 @@
+name: Scoreboard
+version: 1.0
+author: Travila
+main: com.travila.scoreboard.Main
+description: Scoreboard, that displays informations about the player.
+api-version: 1.13
+
+commands:
+  scoreboard:
+    aliases: [sb]
+    description: "To get more info: /sb help"

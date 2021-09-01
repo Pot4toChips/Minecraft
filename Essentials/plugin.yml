@@ -1,0 +1,23 @@
+name: Essentials
+version: 1.0
+author: Travila
+main: com.travila.essentials.Main
+description: Essentials and commands for servers.
+api-version: 1.13
+
+commands:
+  essentials:
+    aliases: [esst]
+    description: "Information about the plugin"
+  gm:
+    aliases: [gmode]
+    description: "Short command for /gamemode"
+  formatchat:
+    aliases: [fchat]
+    description: "Toggle chat formatting"
+  clearchat:
+    aliases: [cchat]
+    description: "Clear the chat"
+  enchant:
+    aliases: [ench]
+    description: "Let you enchant to any level"

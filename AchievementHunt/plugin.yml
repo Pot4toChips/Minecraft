@@ -1,0 +1,11 @@
+name: AchievementHunt
+version: 1.0
+author: Travila
+main: com.travila.achievementhunt.Main
+description: You get a task, that you have to make in time.
+api-version: 1.13
+
+commands:
+  achievementhunt:
+    aliases: [ahunt]
+    description: "To get more info: /ahunt help"

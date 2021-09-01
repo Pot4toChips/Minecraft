@@ -1,0 +1,9 @@
+Rounds: 1
+TeleportRange: 100
+StartTime: 120
+EasyTime: 180
+MediumTime: 240
+HardTime: 360
+ExtremeTime: 450
+ImpossibleTime: 600
+EndgameTime: 900
