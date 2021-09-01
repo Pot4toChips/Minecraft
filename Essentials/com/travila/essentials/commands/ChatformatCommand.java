@@ -119,12 +119,7 @@ public class ChatformatCommand implements CommandExecutor, TabCompleter {
             arguments.add("debug");
         }
         if (prefixExamples.isEmpty()){
-            prefixExamples.add("&7[&6Dávidka&7] &r");
-            prefixExamples.add("&7[&9Krisztiánka&7] &r");
-            prefixExamples.add("&7[&5Pindúrpandúr&7] &r");
-            prefixExamples.add("&7[&dMátéka&7] &r");
-            prefixExamples.add("&7[&cFaszláma&7] &r");
-            prefixExamples.add("&7[&aGaren Main&7] &r");
+            prefixExamples.add("&7[&4Owner&7] &r");
         }
 
         ArrayList<String> result = new ArrayList<String>();
