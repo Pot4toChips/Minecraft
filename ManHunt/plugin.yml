@@ -1,0 +1,11 @@
+name: Manhunt
+version: 1.0
+author: Travila
+main: com.travila.manhunt.Main
+description: Manhunt plugin that tracks a player with compass.
+api-version: 1.13
+
+commands:
+  manhunt:
+    aliases: [manh]
+    description: "Tracks a specific player with compass"
